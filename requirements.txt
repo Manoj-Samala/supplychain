@@ -1,0 +1,5 @@
+flask==3.0.0
+pyodbc==4.0.39
+Werkzeug==2.0.3 
+SQLAlchemy==2.0.28
+azure-identity==1.15.0
